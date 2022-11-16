@@ -1,11 +1,11 @@
-### Oi, eu sou a Polyana Magalhães 👋
+### Oi, eu sou a Polyana Magalhães! 
 
 **Um pouco sobre mim:**
 
-- 🌟: Responsável, comunicativa, comprometida, determinada
+- 🔍 Responsável, comunicativa, comprometida, determinada
 - ⚖  Formada em Direito pela faculdade UNISEPE.
-- 📝: Estudante de Desenvolvimento Web na [< Laboratoria >](https://www.laboratoria.la/br). 
-- ❤️: Apaixonada pela minha família, por tecnologia, viagens e novos aprendizandos
+- 📝 Estudante de Desenvolvimento Web na [< Laboratoria >](https://www.laboratoria.la/br). 
+- ❤️ Apaixonada pela minha família, por tecnologia, viagens e novos aprendizandos
 - 📫 Você pode me encontrar em :
  <div align="center">
   <a href="https://www.linkedin.com/in/polyanagm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
